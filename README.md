@@ -1,10 +1,10 @@
-# to_do_list
+# TO DO LIST APP (HIVE DATABASE)
 
-A new Flutter project.
+A new flutter project.
 
-## Getting Started
+## Task - 01
 
-This project is a starting point for a Flutter application.
+This a "ToDo List App" where I've used HIVE database.
 
 A few resources to get you started if this is your first Flutter project:
 
